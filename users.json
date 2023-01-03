@@ -1,0 +1,4 @@
+{ "index" : { "_id" : "3" } }
+{ "firstname" : "Beth", "lastname": "Smith" }
+{ "index" : { "_id" : "4" } }
+{ "firstname" : "Jerry", "lastname": "Smith" }
